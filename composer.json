@@ -1,0 +1,19 @@
+{
+    "name": "csulok0000/senginent",
+    "version": "0.0.0",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Tibor Csik",
+            "email": "csulok0000@gmail.com",
+            "homepage": "https://csulok.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Csulok0000\\sEngineNT\\": "/src"
+        }
+    }
+}
